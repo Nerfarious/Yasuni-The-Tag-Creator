@@ -1,3 +1,3 @@
 # Yasuni The Tag Creator
 
-# Yasuni is a Discord Bot based on the Discord.JS Library. Its simple functionality; especially the tag system.
+#### Yasuni is a simple bot that is wriiten using the Discord.JS libary.z
